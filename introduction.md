@@ -6,7 +6,9 @@
 
 The final version of this book will assume you’re using the latest version of [Atom](https://atom.io/). But right now we’re in …
 
-### Why are you telling me to click stuff in menus?
+## Conventions {#conventions}
+
+### Why are you telling me to click stuff in menus? {#why-are-you-telling-me-to-click-stuff-in-menus}
 
 I love keyboard shortcuts, and Sublime has dozens of great ones. but you won’t find many in the front part of the book. Why is that?
 
@@ -20,11 +22,11 @@ So even though I firmly believe you should learn the keyboard shortcuts for feat
 
 Mainly give menu-driven instructions to make cross-platform instructions more succinct.
 
-### Hey, where are the keyboard shortcuts?
+### Hey, where are the keyboard shortcuts? {#hey-where-are-the-keyboard-shortcuts}
 
 Instead of including the keyboard shortcuts in the main portion of the book, I’m in the process of compiling a curated list of the most useful keyboard shortcuts, which will be available in the back of the book.
 
-### Formatting notes
+### Formatting notes {#formatting-notes}
 
 When I’m providing a walkthrough, things you need to click or execute are in **bold**.
 
