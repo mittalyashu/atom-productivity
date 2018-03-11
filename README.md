@@ -2,6 +2,8 @@
 
 Code Like a Pro with 21st Century Hackable Text Editor
 
+<img src="images/atom-website.png">
+
 ## Tweet This Book!
 
 Please help [Yashu Mittal](https://www.twitter.com/mittalyashu77) by spreading the word about this book on Twitter!
