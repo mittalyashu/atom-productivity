@@ -4,7 +4,7 @@ Code Like a Pro with 21st Century Hackable Text Editor
 
 ## Tweet This Book!
 
-Please help [Yashu Mittal](https://www.twitter.com/mittalyashu77) by spreading the word about this book on Twitter!
+Please help [Yashu Mittal](https://www.twitter.com/mittalyashu77) by spreading the word about this book on Twitter <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="15"> !
 
 The suggested hashtag for this book is **#atomproductivity**.
 
