@@ -27,6 +27,7 @@ Sublime’s preview feature is one of those subtle touches that can make a big d
 > It’s an improvement over the old model where the preview took over the active tab because it allows you to peek at files while still referring to the files you’re actively working on.
 >
 > If you start editing the file, Sublime promotes the preview tab to a regular tab.
+>
 
 ### Opening Folders
 
@@ -37,3 +38,7 @@ To add a folder to the side bar:
 
 You can tell Sublime not to show selected folders or file types in the side bar. This is convenient for hiding files that Sublime can’t edit, such as .png graphics, or for excluding the compiled outputs of platforms such as CoffeeScript or SASS. To customize Sublime’s file exclusions, see the `folder_exclude_patterns`,  `file_exclude_patterns` and `binary_-file_patterns` settings in the `Preferences.sublime-settings` file. You can override the defaults in your user-specific settings, and you can also customize them on a per-project level.
 
+> **\[warning\] Deleting a folder with open files**
+>
+> When you use the Delete Folder command, Sublime doesn’t close tabs for files that were contained in the deleted folder. The tabs remain open as if nothing happened, but you’ll get an error message if you make changes and attempt to save the file.
+>
