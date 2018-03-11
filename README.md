@@ -1,3 +1,4 @@
-# My Awesome Book
+# Atom Productivity
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Code Like a Pro with 21st Century Hackable Text Editor
+
