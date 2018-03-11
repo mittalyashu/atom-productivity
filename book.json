@@ -2,8 +2,7 @@
     "plugins": [
       "anchorjs",
       "github-edit",
-      "alerts",
-      "insert-logo-link"
+      "alerts"
     ],
     "language": "en",
     "pluginsConfig": {
@@ -19,11 +18,6 @@
       "github-edit": {
         "repo": "mittalyashu/atom-productivity",
         "branch": "master"
-      },
-      "insert-logo-link": {
-        "src": "https://i.imgur.com/Ub2d05u.png",
-        "url": "https://www.codecarrot.net/",
-        "width": "200px"
       }
   }
 }
