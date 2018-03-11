@@ -18,7 +18,7 @@ Or press Command+K,Command+B on Mac OS X or Ctrl+K,Ctrl+B on Windows and Linux.
 
 Sublime’s preview feature is one of those subtle touches that can make a big difference in your day-to-day work. I frequently find myself hunting through multiple files, looking for a particular piece of code. In most editors, each file I examine opens in a new tab, and before long I have two dozen tabs open.
 
-> **[info] For jhgkjgh info**
+> **[info] Preview tabs**
 >
 > In Sublime Text 3, single-clicking a file opens the preview in a special temporary tab. You can identify this tab by the italicized file name in the tab’s title. The preview tab is reused
 when you single-click another file.
