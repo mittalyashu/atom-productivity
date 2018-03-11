@@ -8,5 +8,5 @@
         * [Hey, where are the keyboard shortcuts?](about-this-book.md#hey-where-are-the-keyboard-shortcuts)
         * [Formatting notes](about-this-book.md#formatting-notes)
 * [Contact me](contact.md)
-* [First Chapter](chapter1.md)
+* [Walkthought](chapter1.md)
 
