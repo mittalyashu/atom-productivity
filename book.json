@@ -1,5 +1,8 @@
 {
-    "plugins": ["anchorjs"],
+    "plugins": [
+      "anchorjs",
+      "edit-link"
+    ],
     "language": "en",
     "pluginsConfig": {
       "anchorjs": {
@@ -10,6 +13,10 @@
         "class": "custom-class another-one",
         "truncate": 64,
         "ariaLabel": "Anchor"
+      },
+      "edit-link": {
+        "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+        "label": "Edit This Page"
       }
   }
 }
