@@ -15,7 +15,7 @@
         "ariaLabel": "Anchor"
       },
       "edit-link": {
-        "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+        "base": "https://github.com/mittalyashu/atom-productivity/edit/BRANCH/path/to/book",
         "label": "Edit This Page"
       }
   }
