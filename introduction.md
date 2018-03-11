@@ -1,6 +1,6 @@
 # About this Book
 
-### Which version of Sublime Text does this book cover?
+### Which version of Sublime Text does this book cover? {#which-version-of-sublime-text-does-this-book-cover}
 
 **The short answer**
 
@@ -29,3 +29,4 @@ Instead of including the keyboard shortcuts in the main portion of the book, Iâ€
 When Iâ€™m providing a walkthrough, things you need to click or execute are in **bold**.
 
 Text you should enter is listed in `fixed-width font`, as are file paths, names and extensions, and code.
+
