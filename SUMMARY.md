@@ -6,7 +6,7 @@
     * [Conventions](about-this-book.md/#conventions)
         * [Why are you telling me to click stuff in menus?](about-this-book.md/#hey-where-are-the-keyboard-shortcuts)
         * [Hey, where are the keyboard shortcuts?](about-this-book.md/#)
-        * [Formatting notes](about-this-book.md/#formatting-notes)
+        * [Formatting notes](about-this-book.md#formatting-notes)
 * [Contact me](contact.md)
 * [First Chapter](chapter1.md)
 
