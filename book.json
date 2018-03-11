@@ -1,7 +1,8 @@
 {
     "plugins": [
       "anchorjs",
-      "github-edit"
+      "github-edit",
+      "alerts"
     ],
     "language": "en",
     "pluginsConfig": {
