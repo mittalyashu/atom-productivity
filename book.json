@@ -22,7 +22,8 @@
       },
       "insert-logo-link": {
         "src": "https://i.imgur.com/Ub2d05u.png",
-        "url": "https://www.codecarrot.net/"
+        "url": "https://www.codecarrot.net/",
+        "width": "200px"
       }
   }
 }
