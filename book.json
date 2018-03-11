@@ -1,7 +1,7 @@
 {
     "plugins": [
       "anchorjs",
-      "edit-link"
+      "github-edit"
     ],
     "language": "en",
     "pluginsConfig": {
@@ -14,9 +14,9 @@
         "truncate": 64,
         "ariaLabel": "Anchor"
       },
-      "edit-link": {
-        "base": "https://github.com/mittalyashu/atom-productivity/edit/BRANCH/path/to/book",
-        "label": "Edit This Page"
+      "github-edit": {
+        "repo": "mittalyashu/atom-productivity",
+        "branch": "master"
       }
   }
 }
