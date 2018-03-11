@@ -1,7 +1,8 @@
 # Summary
 
-* [ReadMe](README.md)
+* [Readme](README.md)
 * [Introduction](introduction.md)
-    * [Contact me](contact.md)
+    * [Which version of Sublime Text does this book cover?]()
+* [Contact me](contact.md)
 * [First Chapter](chapter1.md)
 

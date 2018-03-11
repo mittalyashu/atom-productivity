@@ -1,8 +1,8 @@
 # About this Book
 
-Which version of Sublime Text does this book cover?
+### Which version of Sublime Text does this book cover?
 
-### The short answer
+**The short answer**
 
 The final version of this book will assume you’re using the latest version of [Atom](https://atom.io/). But right now we’re in …
 
