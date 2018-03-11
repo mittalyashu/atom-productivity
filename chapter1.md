@@ -2,7 +2,7 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
-> **[info] For info**
+> **[info] For jhgkjgh info**
 >
 > In Sublime Text 3, single-clicking a file opens the preview in a special temporary tab. You can identify this tab by the italicized file name in the tab’s title. The preview tab is reused
 when you single-click another file.
