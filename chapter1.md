@@ -66,20 +66,14 @@ field.
 >
 > When you use the Delete Folder command, Atom doesn’t close tabs for files that were contained in the deleted folder. The tabs remain open as if nothing happened, but you’ll get an error message if you make changes and attempt to save the file.
 
-
 Right-clicking a file in the Folders section brings up just three options: Rename, Delete File and Open Containing Folder… Rename opens an input panel where you can type the new file name. Selecting the Delete option removes the file and closes any open tabs associated with it.
 
 Version Difference!
 
-In Sublime Text 2, deleting a file from the Side Bar removes it from the file system but leaves it open in a tab, changes the tab to unsaved. Easy to accidentally restore the file by
+In Sublime Text 2, deleting a file from the Side Bar removes it from the file system but leaves it open in a tab, changes the tab to unsaved. Easy to accidentally restore the file by saving the tab.
 
-saving the tab.
-
-The Open Containing Folder command opens your system file manager to the parent folder of the
-selected file.
+The Open Containing Folder command opens your system file manager to the parent folder of the selected file.
 
 Rearranging files
 
-Since the Side Bar doesn’t allow you to drag and drop files to reorganize them, using
-Open Containing Folder to and then shuffling files in your file manager is often the best
-workaround.
+Since the Side Bar doesn’t allow you to drag and drop files to reorganize them, using Open Containing Folder to and then shuffling files in your file manager is often the best workaround.
