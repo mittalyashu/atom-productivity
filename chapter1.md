@@ -35,11 +35,51 @@ To add a folder to the side bar:
 
 * Drag the folder from your file explorer into the Atom side bar. Or, on Mac OS X, drag the folder into the Atom icon on the dock.
 
-You can tell Atom not to show selected folders or file types in the side bar. This is convenient for hiding files that Atom can’t edit, such as .png graphics, or for excluding the compiled outputs of platforms such as CoffeeScript or SASS. To customize Atom’s file exclusions, see the `folder_exclude_patterns`,  `file_exclude_patterns` and `binary_-file_patterns` settings in the `Preferences.atom-settings` file. You can override the defaults in your user-specific settings, and you can also customize them on a per-project level.
+> **\[info\] Preview tabs**
+>
+> You can tell Atom not to show selected folders or file types in the side bar. This is convenient for hiding files that Atom can’t edit, such as .png graphics, or for excluding the compiled outputs of platforms such as CoffeeScript or SASS. To customize Atom’s file exclusions, see the `folder_exclude_patterns`,  `file_exclude_patterns` and `binary_-file_patterns` settings in the `Preferences.atom-settings` file. You can override the defaults in your user-specific settings, and you can also customize them on a per-project level.
+
+### Toggling the Open Files Section
+
+By default, the side bar is divided into two sections, **Folders** and **Open Files.**
+
+The **Open Files** section shows dots on files that have been modified and close icons on unmodified files.
+
+You can hide the **Open Files** section if you’d prefer, since it doesn’t provide much information that you can’t already glean from your list of tabs.
+
+To toggle the **Open Files** section:
+
+* **Click View | Side Bar | Hide Open Files** or **View | Side Bar | Show Open Files.**
+
+### Menus
+
+While the Sublime Side Bar is helpful for basic navigation and for visualizing your project’s structure, it offers only a barebones set of commands for working with the files and folders that make up your project.
+
+The Side Bar has three different right-click menus, and they’re all pretty bare bones.
+
+Right-clicking a file in the Open Files section reveals only a Close option, which closes the file’s tab.
+
+In the Folders section, right-clicking on a folder brings up a menu with a few basic options: New File, Rename…, New Folder, Delete Folder and Find in Folder. New File, New Folder and Rename… open an input panel at the bottom of the screen that allows you to enter the desired file or folder name. The Find in Folder option opens a Find panel and populates the folder name into the Where…
+field.
 
 > **\[warning\] Deleting a folder with open files**
 >
 > When you use the Delete Folder command, Atom doesn’t close tabs for files that were contained in the deleted folder. The tabs remain open as if nothing happened, but you’ll get an error message if you make changes and attempt to save the file.
 
 
+Right-clicking a file in the Folders section brings up just three options: Rename, Delete File and Open Containing Folder… Rename opens an input panel where you can type the new file name. Selecting the Delete option removes the file and closes any open tabs associated with it.
 
+Version Difference!
+
+In Sublime Text 2, deleting a file from the Side Bar removes it from the file system but leaves it open in a tab, changes the tab to unsaved. Easy to accidentally restore the file by
+
+saving the tab.
+
+The Open Containing Folder command opens your system file manager to the parent folder of the
+selected file.
+
+Rearranging files
+
+Since the Side Bar doesn’t allow you to drag and drop files to reorganize them, using
+Open Containing Folder to and then shuffling files in your file manager is often the best
+workaround.
