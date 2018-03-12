@@ -2,22 +2,22 @@
 
 ### Side Bar
 
-Sublime’s side bar contains a browsable list of files and folders. You can expand nested folders to show their contents, open the files for editing, or preview their contents.
+Atom side bar contains a browsable list of files and folders. You can expand nested folders to show their contents, open the files for editing, or preview their contents.
 
-While the side bar provides convenient access to open files and folders, it also imposes some surprising limitations in its out-of-the-box configuration. You can’t can’t drag and drop files or folders to rearrange them, and the right-click menus provide only basic file commands.
+While the side bar provides convenient access to open files and folders, it also imposes some surprising limitations in its out-of-the-box configuration. You can drag and drop files or folders to rearrange them, and the right-click menus provide file commands.
 
 ### Toggling the Side Bar
 
-When you first install Sublime, the side bar should be enabled by default. You can quickly toggle it off if you’d like to devote more screen real estate to your code and reenable it when you need to browse for another file.
+When you first install Atom, the side bar should be disabled by default. You can quickly toggle it on if you’d like to devote more screen real estate to your code and re-enable it when you need to browse for another file.
 
 To toggle the side bar:
 
-* Click View \| Side Bar \| Show Side Bar or View \| Side Bar \| Hide Side Bar.
-  Or press Command+K,Command+B on Mac OS X or Ctrl+K,Ctrl+B on Windows and Linux.
+* Click **View | Side Bar | Show Side Bar** or **View | Side Bar | Hide Side Bar**.
+  Or press **Command+\**, on Mac OS X or **Ctrl+\** on Windows and Linux.
 
 ### Previewing Files
 
-Sublime’s preview feature is one of those subtle touches that can make a big difference in your day-to-day work. I frequently find myself hunting through multiple files, looking for a particular piece of code. In most editors, each file I examine opens in a new tab, and before long I have two dozen tabs open.
+Atom's preview feature is one of those subtle touches that can make a big difference in your day-to-day work. I frequently find myself hunting through multiple files, looking for a particular piece of code. In most editors, each file I examine opens in a new tab, and before long I have two dozen tabs open.
 
 > **\[info\] Preview tabs**
 >
