@@ -1,6 +1,6 @@
 # About this Book
 
-### Which version of Sublime Text does this book cover? {#which-version-of-sublime-text-does-this-book-cover}
+### Which version of Atom Text does this book cover? {#which-version-of-atom-text-does-this-book-cover}
 
 **The short answer**
 
@@ -10,9 +10,9 @@ The final version of this book will assume you’re using the latest version of 
 
 ### Why are you telling me to click stuff in menus? {#why-are-you-telling-me-to-click-stuff-in-menus}
 
-I love keyboard shortcuts, and Sublime has dozens of great ones. but you won’t find many in the front part of the book. Why is that?
+I love keyboard shortcuts, and Atom has dozens of great ones. but you won’t find many in the front part of the book. Why is that?
 
-In earlier versions of the book, I tried to include the keyboard shortcuts along with the step-by-step instructions. It was repetitive and clumsy, because Sublime’s shortcuts differ radically between the Windows and Linux versions and the OS X versions.
+In earlier versions of the book, I tried to include the keyboard shortcuts along with the step-by-step instructions. It was repetitive and clumsy, because Atom’s shortcuts differ radically between the Windows and Linux versions and the OS X versions.
 
 It clutters the reading experience to include keyboard shortcuts, because they’re different for each operating system.
 

@@ -12,7 +12,7 @@ When you first install Atom, the side bar should be disabled by default. You can
 
 To toggle the side bar:
 
-* Click **View | Side Bar | Show Side Bar** or **View | Side Bar | Hide Side Bar**.
+* Click **View \| Side Bar \| Show Side Bar** or **View \| Side Bar \| Hide Side Bar**.
   Or press **Command+\**, on Mac OS X or **Ctrl+\** on Windows and Linux.
 
 ### Previewing Files
@@ -21,22 +21,25 @@ Atom's preview feature is one of those subtle touches that can make a big differ
 
 > **\[info\] Preview tabs**
 >
-> In Sublime Text 3, single-clicking a file opens the preview in a special temporary tab. You can identify this tab by the italicized file name in the tab’s title. The preview tab is reused  
-> when you single-click another file.
+> In Atom, single-clicking a file opens the preview in a special temporary tab. You can identify this tab by the italicized file name in the tab’s title. The preview tab is reused when you single-click another file.
 >
 > It’s an improvement over the old model where the preview took over the active tab because it allows you to peek at files while still referring to the files you’re actively working on.
 >
-> If you start editing the file, Sublime promotes the preview tab to a regular tab.
+> If you start editing the file, Atom promotes the preview tab to a regular tab.
 
 ### Opening Folders
 
-The Folders section of the side bar shows any folders you’ve opened in Sublime, as well as the files they contain.
+The Folders section of the side bar shows any folders you’ve opened in Atom, as well as the files they contain.
 
 To add a folder to the side bar:
-* Drag the folder from your file explorer into the Sublime side bar. Or, on Mac OS X, drag the folder into the Sublime icon on the dock.
 
-You can tell Sublime not to show selected folders or file types in the side bar. This is convenient for hiding files that Sublime can’t edit, such as .png graphics, or for excluding the compiled outputs of platforms such as CoffeeScript or SASS. To customize Sublime’s file exclusions, see the `folder_exclude_patterns`,  `file_exclude_patterns` and `binary_-file_patterns` settings in the `Preferences.sublime-settings` file. You can override the defaults in your user-specific settings, and you can also customize them on a per-project level.
+* Drag the folder from your file explorer into the Atom side bar. Or, on Mac OS X, drag the folder into the Atom icon on the dock.
+
+You can tell Atom not to show selected folders or file types in the side bar. This is convenient for hiding files that Atom can’t edit, such as .png graphics, or for excluding the compiled outputs of platforms such as CoffeeScript or SASS. To customize Atom’s file exclusions, see the `folder_exclude_patterns`,  `file_exclude_patterns` and `binary_-file_patterns` settings in the `Preferences.atom-settings` file. You can override the defaults in your user-specific settings, and you can also customize them on a per-project level.
 
 > **\[warning\] Deleting a folder with open files**
 >
-> When you use the Delete Folder command, Sublime doesn’t close tabs for files that were contained in the deleted folder. The tabs remain open as if nothing happened, but you’ll get an error message if you make changes and attempt to save the file.
+> When you use the Delete Folder command, Atom doesn’t close tabs for files that were contained in the deleted folder. The tabs remain open as if nothing happened, but you’ll get an error message if you make changes and attempt to save the file.
+
+
+
